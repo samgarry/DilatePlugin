@@ -1,0 +1,137 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Rafx2PluginBase.cpp
+  Rafx2Plugin.cpp
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(333,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(649,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(650,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(741,11): warning C4018: '<=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(743,15): warning C4018: '>': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(743,43): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(756,11): warning C4018: '>=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(758,16): warning C4018: '>': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(758,43): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(771,11): warning C4018: '>=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(771,38): warning C4018: '<=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(773,16): warning C4018: '>': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(773,43): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(775,16): warning C4018: '>': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(775,44): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(1088,26): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(1110,12): warning C4018: '>=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(1130,11): warning C4018: '>=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(2788,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(2839,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(2842,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(2995,20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(3353,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(4888,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(4891,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(4892,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(8704,20): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(8708,20): warning C4018: '<=': signed/unsigned mismatch
+  RackAFXDLL.cpp
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(333,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(649,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(650,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(741,11): warning C4018: '<=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(743,15): warning C4018: '>': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(743,43): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(756,11): warning C4018: '>=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(758,16): warning C4018: '>': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(758,43): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(771,11): warning C4018: '>=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(771,38): warning C4018: '<=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(773,16): warning C4018: '>': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(773,43): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(775,16): warning C4018: '>': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(775,44): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(1088,26): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(1110,12): warning C4018: '>=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(1130,11): warning C4018: '>=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(2788,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(2839,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(2842,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(2995,20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(3353,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(4888,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(4891,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(4892,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(8704,20): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(8708,20): warning C4018: '<=': signed/unsigned mismatch
+  fxobjects.cpp
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(333,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(649,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(650,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(741,11): warning C4018: '<=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(743,15): warning C4018: '>': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(743,43): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(756,11): warning C4018: '>=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(758,16): warning C4018: '>': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(758,43): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(771,11): warning C4018: '>=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(771,38): warning C4018: '<=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(773,16): warning C4018: '>': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(773,43): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(775,16): warning C4018: '>': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(775,44): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(1088,26): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(1110,12): warning C4018: '>=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(1130,11): warning C4018: '>=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(2788,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(2839,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(2842,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(2995,20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(3353,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(4888,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(4891,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(4892,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(8704,20): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(8708,20): warning C4018: '<=': signed/unsigned mismatch
+  pluginparameter.cpp
+  plugingui.cpp
+C:\RackAFXProjects\Project1\PluginKernel\plugingui.cpp(1569,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  plugincore.cpp
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(333,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(649,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(650,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(741,11): warning C4018: '<=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(743,15): warning C4018: '>': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(743,43): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(756,11): warning C4018: '>=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(758,16): warning C4018: '>': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(758,43): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(771,11): warning C4018: '>=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(771,38): warning C4018: '<=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(773,16): warning C4018: '>': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(773,43): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(775,16): warning C4018: '>': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(775,44): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(1088,26): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(1110,12): warning C4018: '>=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(1130,11): warning C4018: '>=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(2788,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(2839,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(2842,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(2995,20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(3353,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(4888,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(4891,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(4892,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(8704,20): warning C4018: '<': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginObjects\fxobjects.h(8708,20): warning C4018: '<=': signed/unsigned mismatch
+C:\RackAFXProjects\Project1\PluginKernel\plugincore.cpp(473,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginKernel\plugincore.cpp(474,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginKernel\plugincore.cpp(495,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\PluginKernel\plugincore.cpp(496,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  pluginbase.cpp
+  customviews.cpp
+C:\RackAFXProjects\Project1\CustomControls\customviews.cpp(80,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\RackAFXProjects\Project1\CustomControls\customviews.cpp(475,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  customcontrols.cpp
+  vstgui_win32.cpp
+C:\RackAFXProjects\vstgui4\vstgui\lib\cview.cpp(1010,1): warning C4996: 'VSTGUI::Animation::Animator::addAnimation': was declared deprecated
+C:\RackAFXProjects\vstgui4\vstgui\lib\animation\animator.h(26): message : see declaration of 'VSTGUI::Animation::Animator::addAnimation'
+  vstgui_uidescription_win32.cpp
+  Generating Code...
+     Creating library C:\RackAFXProjects\Project1\RAFX2 WinBuild\\build\Project1.lib and object C:\RackAFXProjects\Project1\RAFX2 WinBuild\\build\Project1.exp
+  Project1.vcxproj -> C:\Users\spg77\AppData\Roaming\RackAFX 7.0\PlugIns\Project1.rafx2
